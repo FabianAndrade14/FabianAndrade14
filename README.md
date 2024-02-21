@@ -30,6 +30,31 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=FabianAndrade14&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="FabianAndrade14's Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianAndrade14&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="FabianAndrade14's Top Languages">
 
+<br>
+
+<h3> 💾 &nbsp;Tech Stack</h3>
+
+🖥️ &nbsp;
+  ![AngularJS](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+  ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+💾 &nbsp;
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge) 
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+💻 &nbsp;
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+🐾 &nbsp;
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+📱 &nbsp;
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+  
 
 <!-- <div align="center">
   <img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=FabianAndrade14&theme=dracula&hide_border=false" alt="FabianAndrade14's Streak" /></a>
