@@ -15,8 +15,8 @@
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 </p>
 
-<p align="center">
-### Computer Systems Engineer • UX Engineer • FullStack Developer • FrontEnd Lover
+<p align="center" style="font-size: large; font-weight: bolder">
+Computer Systems Engineer • UX Engineer • FullStack Developer • FrontEnd Lover
 </p>
 
 ### What I'm doing:
