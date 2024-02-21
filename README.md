@@ -4,6 +4,9 @@
       <img src="http://pa1.narvii.com/7064/16627aec9acb1ee3f185f46d27132039c4dfa18f_00.gif" width="50">
     </a>
 </h1>
+
+### --------------Computer Systems Engineer • UX Engineer • FullStack Developer • FrontEnd Lover--------------
+
 <p align="center">
     <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/fabian-camilo-andrade-mesa-abb8b9235/">
 			  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
@@ -15,7 +18,6 @@
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 </p>
 
-###                 Computer Systems Engineer • UX Engineer • FullStack Developer • FrontEnd Lover
 
 ### What I'm doing:
 - 💼 I’m currently working as a Freelance, creating a web app for a business initiative 
