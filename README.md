@@ -12,15 +12,15 @@
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=FabianAndrade14&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="FabianAndrade14's Stats">
+<img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=FabianAndrade14&theme=dracula&hide_border=false" alt="FabianAndrade14's Streak" /></a>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianAndrade14&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="FabianAndrade14's Top Languages">
 
-<div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=FabianAndrade14&theme=dracula&hide_border=false"
-       alt="FabianAndrade14's Streak" /></a>
-</div>
 
-
-<h3 align="center" > <img src="http://pa1.narvii.com/7064/16627aec9acb1ee3f185f46d27132039c4dfa18f_00.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center"> 
+  <img src="http://pa1.narvii.com/7064/16627aec9acb1ee3f185f46d27132039c4dfa18f_00.gif" width="40" height="40" style="margin-right: 10px;">
+      Connect with me
+  <img src="http://pa1.narvii.com/7064/16627aec9acb1ee3f185f46d27132039c4dfa18f_00.gif" width="40" height="40" style="margin-right: 10px;">
+</h3>
 
 <p align="center">
 
