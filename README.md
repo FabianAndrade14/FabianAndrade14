@@ -8,6 +8,17 @@
     <a href="https://github.com/FabianAndrade14">
         <img src="https://img.shields.io/github/followers/FabianAndrade14?label=Followers" alt="FabianAndrade14"/>
     </a>
+    <div align="center"  class="icons-social" style="margin-left: 10px;">
+    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/fabian-camilo-andrade-mesa-abb8b9235/">
+			  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/FabianAndrade14">
+		    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/another_friki_">
+		  	<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCfRC5yUAu0BoLhgBHnSTEjQ">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+</div>
+
 </p>
 
 ### Computer Systems Engineer • UX Engineer • FullStack Developer • FrontEnd Lover
@@ -18,9 +29,6 @@
 - 💻 I’m looking to collaborate on React apps and .NET projects 
 - 📨 How to reach me: fabian.andrade1498@gmail.com
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianAndrade14&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="FabianAndrade14's Top Languages">
-</div>
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=FabianAndrade14&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="FabianAndrade14's Stats">
@@ -35,16 +43,11 @@
 
 <p align="center">
 
-<div align="center"  class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/fabian-camilo-andrade-mesa-abb8b9235/">
-			  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="https://github.com/FabianAndrade14">
-		    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/another_friki_">
-		  	<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCfRC5yUAu0BoLhgBHnSTEjQ">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-</div>
+
+
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianAndrade14&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="FabianAndrade14's Top Languages">
+</div> -->
 <!--
 **FabianAndrade14/FabianAndrade14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
