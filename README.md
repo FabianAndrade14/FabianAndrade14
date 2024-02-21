@@ -8,7 +8,6 @@
     <a href="https://github.com/FabianAndrade14">
         <img src="https://img.shields.io/github/followers/FabianAndrade14?label=Followers" alt="FabianAndrade14"/>
     </a>
-    <div align="center"  class="icons-social" style="margin-left: 10px;">
     <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/fabian-camilo-andrade-mesa-abb8b9235/">
 			  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/FabianAndrade14">
@@ -17,7 +16,7 @@
 		  	<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCfRC5yUAu0BoLhgBHnSTEjQ">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-</div>
+
 
 </p>
 
