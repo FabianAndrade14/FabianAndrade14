@@ -4,6 +4,11 @@
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
     </a>
 </h1>
+<p align="center">
+    <a href="https://github.com/FabianAndrade14">
+        <img src="https://img.shields.io/github/followers/FabianAndrade14?label=Followers" alt="FabianAndrade14"/>
+    </a>
+</p>
 
 ### Computer Systems Engineer • UX Engineer • FullStack Developer • FrontEnd Lover
 
@@ -13,11 +18,6 @@
 - 💻 I’m looking to collaborate on React apps and .NET projects 
 - 📨 How to reach me: fabian.andrade1498@gmail.com
 
-<p align="center">
-    <a href="https://github.com/FabianAndrade14">
-        <img src="https://img.shields.io/github/followers/FabianAndrade14?label=Followers" alt="FabianAndrade14"/>
-    </a>
-</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianAndrade14&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="FabianAndrade14's Top Languages">
 </div>
