@@ -15,9 +15,7 @@
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 </p>
 
-<p align="center" style="font-size: large; font-weight: bolder;">
-Computer Systems Engineer • UX Engineer • FullStack Developer • FrontEnd Lover
-</p>
+###                 Computer Systems Engineer • UX Engineer • FullStack Developer • FrontEnd Lover
 
 ### What I'm doing:
 - 💼 I’m currently working as a Freelance, creating a web app for a business initiative 
@@ -25,7 +23,7 @@ Computer Systems Engineer • UX Engineer • FullStack Developer • FrontEnd L
 - 💻 I’m looking to collaborate on React apps and .NET projects 
 - 📨 How to reach me: fabian.andrade1498@gmail.com
 
-
+<br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=FabianAndrade14&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="FabianAndrade14's Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianAndrade14&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="FabianAndrade14's Top Languages">
