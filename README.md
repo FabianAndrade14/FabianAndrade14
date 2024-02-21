@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi, i'm Fabian Andrade
     <a href="https://github.com/FabianAndrade14" target="_self">
-      <img src="http://pa1.narvii.com/7064/16627aec9acb1ee3f185f46d27132039c4dfa18f_00.gif" width="30">
+      <img src="http://pa1.narvii.com/7064/16627aec9acb1ee3f185f46d27132039c4dfa18f_00.gif" width="50">
     </a>
 </h1>
 <p align="center">
