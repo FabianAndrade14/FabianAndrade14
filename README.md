@@ -1,13 +1,10 @@
 <h1 align="center">
   Hi, i'm Fabian Andrade
-    <a href="https://github.com/Bouaskaoun" target="_self">
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+    <a href="https://github.com/FabianAndrade14" target="_self">
+      <img src="http://pa1.narvii.com/7064/16627aec9acb1ee3f185f46d27132039c4dfa18f_00.gif" width="30">
     </a>
 </h1>
 <p align="center">
-    <a href="https://github.com/FabianAndrade14">
-        <img src="https://img.shields.io/github/followers/FabianAndrade14?label=Followers" alt="FabianAndrade14"/>
-    </a>
     <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/fabian-camilo-andrade-mesa-abb8b9235/">
 			  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/FabianAndrade14">
@@ -16,11 +13,11 @@
 		  	<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCfRC5yUAu0BoLhgBHnSTEjQ">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-
-
 </p>
 
-### Computer Systems Engineer • UX Engineer • FullStack Developer • FrontEnd Lover
+<h2 align="center">
+Computer Systems Engineer • UX Engineer • FullStack Developer • FrontEnd Lover
+</h2>
 
 ### What I'm doing:
 - 💼 I’m currently working as a Freelance, creating a web app for a business initiative 
@@ -37,7 +34,7 @@
 <h3 align="center"> 
   <img src="http://pa1.narvii.com/7064/16627aec9acb1ee3f185f46d27132039c4dfa18f_00.gif" width="40" height="40" style="margin-right: 10px;">
       Connect with me
-  <img src="http://pa1.narvii.com/7064/16627aec9acb1ee3f185f46d27132039c4dfa18f_00.gif" width="40" height="40" style="margin-right: 10px;">
+  <img src="" width="40" height="40" style="margin-right: 10px;">
 </h3>
 
 <p align="center">
