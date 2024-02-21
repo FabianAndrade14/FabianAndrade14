@@ -5,15 +5,26 @@
     </a>
 </h1>
 
+### Computer Systems Engineer • UX Engineer • FullStack Developer • FrontEnd Lover
+
+### What I'm doing:
+- 💼 I’m currently working as a Freelance, creating a web app for a business initiative 
+- 🗒️ I’m currently learning flutter, for Mobile Apps and looking for create a videogame using this SDK
+- 💻 I’m looking to collaborate on React apps and .NET projects 
+- 📨 How to reach me: fabian.andrade1498@gmail.com
+
 <p align="center">
     <a href="https://github.com/FabianAndrade14">
         <img src="https://img.shields.io/github/followers/FabianAndrade14?label=Followers" alt="FabianAndrade14"/>
     </a>
 </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianAndrade14&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="FabianAndrade14's Top Languages">
+</div>
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=FabianAndrade14&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="FabianAndrade14's Stats">
 <img align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=FabianAndrade14&theme=dracula&hide_border=false" alt="FabianAndrade14's Streak" /></a>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianAndrade14&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="FabianAndrade14's Top Languages">
 
 
 <h3 align="center"> 
