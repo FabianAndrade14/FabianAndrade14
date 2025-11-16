@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/sprite1.png" width="290" height="290" />
-</p>
 <h1 align="center">
   Hi, i'm Fabian Andrade
     <a href="https://github.com/FabianAndrade14" target="_self">
@@ -26,6 +23,11 @@
 - 🗒️ I’m currently learning flutter, for Mobile Apps and looking for create a videogame using this SDK
 - 💻 I’m looking to collaborate on React apps and .NET projects 
 - 📨 How to reach me: fabian.andrade1498@gmail.com
+
+<img src="assets/sprite1.png"
+     width="160"
+     align="right"
+     style="margin-left: 20px; margin-bottom: 10px;" />
 
 ## 💾 &nbsp;Tech Stack
 ![Angular](https://img.shields.io/badge/-Angular-05122B?style=flat&logo=angular)&nbsp;
