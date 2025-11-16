@@ -25,17 +25,7 @@
 - 💻 I’m looking to collaborate on React apps and .NET projects 
 - 📨 How to reach me: fabian.andrade1498@gmail.com
 
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/FabianAndrade14">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabianAndrade14&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="FabianAndrade14's Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianAndrade14&theme=dracula&show_icons=true&hide_border=false&layout=compact"  alt="FabianAndrade14's Top Languages"/>
-  </a>
-</p>
-
-<br>
+<img alt="fabian" src="assets/sprite1.png" align="right"/>
 
 ## 💾 &nbsp;Tech Stack
 ![Angular](https://img.shields.io/badge/-Angular-05122B?style=flat&logo=angular)&nbsp;
@@ -56,6 +46,17 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;\
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/FabianAndrade14">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabianAndrade14&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="FabianAndrade14's Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianAndrade14&theme=dracula&show_icons=true&hide_border=false&layout=compact"  alt="FabianAndrade14's Top Languages"/>
+  </a>
+</p>
+
+<br>
 
 
 <!-- 🖥️ &nbsp;
