@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/sprite1.png" width="290" />
+</p>
 <h1 align="center">
   Hi, i'm Fabian Andrade
     <a href="https://github.com/FabianAndrade14" target="_self">
@@ -15,9 +18,6 @@
 		  	<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCfRC5yUAu0BoLhgBHnSTEjQ">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-</p>
-<p align="center">
-  <img src="assets/sprite1.png" width="290" />
 </p>
 
 
