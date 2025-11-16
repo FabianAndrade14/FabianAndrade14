@@ -7,10 +7,6 @@
 
 ### • Computer Systems Engineer • UI Engineer • UX Engineer • FullStack Developer • FrontEnd Lover •
 <p align="center">
-  <img src="assets/sprite1.png" width="150" />
-</p>
-
-<p align="center">
     <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/fabian-camilo-andrade-mesa-abb8b9235/">
 			  <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
     <a style="margin-left: 10px;" target="_blank" href="https://github.com/FabianAndrade14">
@@ -19,6 +15,9 @@
 		  	<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCfRC5yUAu0BoLhgBHnSTEjQ">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+</p>
+<p align="center">
+  <img src="assets/sprite1.png" width="290" />
 </p>
 
 
