@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/sprite1.png" width="290" />
+  <img src="assets/sprite1.png" width="290" height="0px" />
 </p>
 <h1 align="center">
   Hi, i'm Fabian Andrade
