@@ -4,9 +4,11 @@
       <img src="http://pa1.narvii.com/7064/16627aec9acb1ee3f185f46d27132039c4dfa18f_00.gif" width="50">
     </a>
 </h1>
-<img src="assets/sprite1.png" align="center" width="260" />
 
 ### • Computer Systems Engineer • UI Engineer • UX Engineer • FullStack Developer • FrontEnd Lover •
+<p align="center">
+  <img src="assets/sprite1.png" width="150" />
+</p>
 
 <p align="center">
     <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/fabian-camilo-andrade-mesa-abb8b9235/">
