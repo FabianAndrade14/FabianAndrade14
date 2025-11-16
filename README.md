@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi, i'm Fabian Andrade
-      <img src="assets/sprite1.png" width="50">
+      <img src="assets/sprite1.png" width="60">
 </h1>
 
 ### • Computer Systems Engineer • UI Engineer • UX Engineer • FullStack Developer • FrontEnd Lover •
