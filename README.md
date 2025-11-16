@@ -27,8 +27,14 @@
 
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=FabianAndrade14&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="FabianAndrade14's Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianAndrade14&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="FabianAndrade14's Top Languages">
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/FabianAndrade14">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabianAndrade14&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="FabianAndrade14's Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianAndrade14&theme=dracula&show_icons=true&hide_border=false&layout=compact"  alt="FabianAndrade14's Top Languages"/>
+  </a>
+</p>
 
 <br>
 
