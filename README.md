@@ -1,8 +1,6 @@
 <h1 align="center">
   Hi, i'm Fabian Andrade
-    <a href="https://github.com/FabianAndrade14" target="_self">
       <img src="assets/sprite1.png" width="50">
-    </a>
 </h1>
 
 ### • Computer Systems Engineer • UI Engineer • UX Engineer • FullStack Developer • FrontEnd Lover •
