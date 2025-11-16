@@ -17,17 +17,17 @@
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 </p>
 
+<img src="assets/sprite1.png"
+     width="200"
+     align="right"
+     style="margin-left: 20px; margin-bottom: 10px;" />
+
 
 ## What I'm doing:
 - 💼 I’m currently working as a Freelance, creating a web app for a business initiative 
 - 🗒️ I’m currently learning flutter, for Mobile Apps and looking for create a videogame using this SDK
 - 💻 I’m looking to collaborate on React apps and .NET projects 
 - 📨 How to reach me: fabian.andrade1498@gmail.com
-
-<img src="assets/sprite1.png"
-     width="200"
-     align="right"
-     style="margin-left: 20px; margin-bottom: 10px;" />
 
 ## 💾 &nbsp;Tech Stack
 ![Angular](https://img.shields.io/badge/-Angular-05122B?style=flat&logo=angular)&nbsp;
