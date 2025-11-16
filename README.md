@@ -4,6 +4,7 @@
       <img src="http://pa1.narvii.com/7064/16627aec9acb1ee3f185f46d27132039c4dfa18f_00.gif" width="50">
     </a>
 </h1>
+<img src="assets/sprite1.png" align="center" width="260" />
 
 ### • Computer Systems Engineer • UI Engineer • UX Engineer • FullStack Developer • FrontEnd Lover •
 
@@ -24,8 +25,6 @@
 - 🗒️ I’m currently learning flutter, for Mobile Apps and looking for create a videogame using this SDK
 - 💻 I’m looking to collaborate on React apps and .NET projects 
 - 📨 How to reach me: fabian.andrade1498@gmail.com
-
-<img src="assets/sprite1.png" align="right" width="260" />
 
 ## 💾 &nbsp;Tech Stack
 ![Angular](https://img.shields.io/badge/-Angular-05122B?style=flat&logo=angular)&nbsp;
