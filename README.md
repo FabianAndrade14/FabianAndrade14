@@ -25,7 +25,7 @@
 - 📨 How to reach me: fabian.andrade1498@gmail.com
 
 <img src="assets/sprite1.png"
-     width="250"
+     width="200"
      align="right"
      style="margin-left: 20px; margin-bottom: 10px;" />
 
