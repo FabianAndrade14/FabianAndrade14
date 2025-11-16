@@ -48,11 +48,6 @@
 - 🔥 **My Portfolio** — Modern responsive personal website  
   🔗 https://fabian-dev.vercel.app
 
-- 📱 **Mobile Flutter App** — Gestión de inventarios  
-  🔗 (repo link)
-
-- 🎮 **Game Prototype with Flutter** — Pixel art action demo  
-  🔗 (repo link)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
