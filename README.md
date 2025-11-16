@@ -25,9 +25,9 @@
 - 💻 I’m looking to collaborate on React apps and .NET projects 
 - 📨 How to reach me: fabian.andrade1498@gmail.com
 
-<img src="assets/sprite1.png" align="center" width="250" />
+<img src="assets/sprite1.png" align="right" width="260" />
 
-### 💾 &nbsp;Tech Stack
+## 💾 &nbsp;Tech Stack
 ![Angular](https://img.shields.io/badge/-Angular-05122B?style=flat&logo=angular)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
