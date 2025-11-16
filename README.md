@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi, i'm Fabian Andrade
     <a href="https://github.com/FabianAndrade14" target="_self">
-      <img src="http://pa1.narvii.com/7064/16627aec9acb1ee3f185f46d27132039c4dfa18f_00.gif" width="50">
+      <img src="assets/sprite1.png" width="50">
     </a>
 </h1>
 
@@ -43,6 +43,16 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;\
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+
+## 🚀 Featured Projects
+- 🔥 **My Portfolio** — Modern responsive personal website  
+  🔗 https://fabian-dev.vercel.app
+
+- 📱 **Mobile Flutter App** — Gestión de inventarios  
+  🔗 (repo link)
+
+- 🎮 **Game Prototype with Flutter** — Pixel art action demo  
+  🔗 (repo link)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
