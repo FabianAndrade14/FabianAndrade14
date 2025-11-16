@@ -17,11 +17,6 @@
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 </p>
 
-<img src="assets/sprite1.png"
-     width="200"
-     align="right"
-     style="margin-left: 20px; margin-bottom: 10px;" />
-
 
 ## What I'm doing:
 - 💼 I’m currently working as a Freelance, creating a web app for a business initiative 
