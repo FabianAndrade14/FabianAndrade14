@@ -24,6 +24,13 @@
 - 💻 I’m looking to collaborate on React apps and .NET projects 
 - 📨 How to reach me: fabian.andrade1498@gmail.com
 
+## 🧠 Skills & Strengths
+- Clean code & scalable architecture
+- Strong UI/UX sense
+- Fast learner & problem solver
+- Agile methodologies (Scrum)
+- Teamwork & communication
+
 ## 💾 &nbsp;Tech Stack
 ![Angular](https://img.shields.io/badge/-Angular-05122B?style=flat&logo=angular)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -47,7 +54,6 @@
 ## 🚀 Featured Projects
 - 🔥 **My Portfolio** — Modern responsive personal website  
   🔗 https://fabian-dev.vercel.app
-
 
 ## ⚙️ &nbsp;GitHub Analytics
 
